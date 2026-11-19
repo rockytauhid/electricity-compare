@@ -59,18 +59,15 @@ npm run build    # Type-check (tsc --noEmit) and build dist/
 npm test         # Run Vitest unit & golden regression tests
 ```
 
-## Self-hosting with Docker (Debian / `PLEX-PC`)
+## Self-hosting with Docker
 
-This repository includes a multi-stage `Dockerfile`, `nginx.conf`, and `docker-compose.yml` for hosting as a static container (e.g. staging at `wattcast.rockytauhid.dev` in `/home/rocky/docker/wattcast` before moving to `www.wattcast.com.au`):
+This repository includes a multi-stage `Dockerfile` (non-root `nginxinc/nginx-unprivileged`), `nginx.conf` (with strict CSP and security headers), and a hardened `docker-compose.yml` (read-only filesystem, dropped capabilities, `no-new-privileges`):
 
 ```bash
-mkdir -p /home/rocky/docker/wattcast
-cd /home/rocky/docker/wattcast
-# Clone or sync this repository here, then:
 docker compose up -d --build
 ```
 
-By default, `docker-compose.yml` attaches the `wattcast` service (alias `wattcast`, port `80`) to the external Docker network `proxy-net`, matching the host reverse proxy setup. Route `wattcast.rockytauhid.dev` to `http://wattcast:80` in your reverse proxy.
+By default, the container serves on `127.0.0.1:8080` (port `8080` inside the container). To attach it to a host reverse proxy network without committing server-specific configuration, create an untracked `docker-compose.override.yml` on your server (already listed in `.gitignore`).
 
 ## Licence
 
