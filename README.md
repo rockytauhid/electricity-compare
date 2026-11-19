@@ -70,7 +70,7 @@ cd /home/rocky/docker/wattcast
 docker compose up -d --build
 ```
 
-By default, `docker-compose.yml` binds the Nginx container to `127.0.0.1:8085:80`. Point your existing reverse proxy (Nginx, Caddy, Traefik, or Cloudflare Tunnel) for `wattcast.rockytauhid.dev` to `http://127.0.0.1:8085` (or attach the `wattcast` service to your reverse proxy's shared Docker network and remove `ports`).
+By default, `docker-compose.yml` attaches the `wattcast` service (alias `wattcast`, port `80`) to the external Docker network `proxy-net`, matching the host reverse proxy setup. Route `wattcast.rockytauhid.dev` to `http://wattcast:80` in your reverse proxy.
 
 ## Licence
 
