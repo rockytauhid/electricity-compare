@@ -1,0 +1,218 @@
+[
+  {
+    "name": "1st Energy - Quartz Single",
+    "membershipFee": "0",
+    "supplyCharge": "1.881",
+    "usageRate": "0.2739",
+    "feedInRate": "0.01",
+    "afterLimitFit": "0.001",
+    "feedInLimit": "5"
+  },
+  {
+    "name": "AGL - Smart Saver",
+    "membershipFee": "0",
+    "supplyCharge": "1.8241",
+    "usageRate": "0.2657",
+    "feedInRate": "0.02",
+    "afterLimitFit": "0",
+    "feedInLimit": "999"
+  },
+  {
+    "name": "AGL - Solar Savers",
+    "membershipFee": "0",
+    "supplyCharge": "1.9201",
+    "usageRate": "0.2797",
+    "feedInRate": "0.08",
+    "afterLimitFit": "0.02",
+    "feedInLimit": "8"
+  },
+  {
+    "name": "Alinta - HomeDeal Smart",
+    "membershipFee": "0",
+    "supplyCharge": "1.6897",
+    "usageRate": "0.2462",
+    "feedInRate": "0.02",
+    "afterLimitFit": "0",
+    "feedInLimit": "999"
+  },
+  {
+    "name": "Alinta - SolarBalance Advantage",
+    "membershipFee": "0",
+    "supplyCharge": "1.8434",
+    "usageRate": "0.2685",
+    "feedInRate": "0.08",
+    "afterLimitFit": "0.02",
+    "feedInLimit": "8"
+  },
+  {
+    "name": "Covau - Freedom Single",
+    "membershipFee": "0",
+    "supplyCharge": "1.2069",
+    "usageRate": "0.4015",
+    "feedInRate": "0.055",
+    "afterLimitFit": "0",
+    "feedInLimit": "999"
+  },
+  {
+    "name": "Diamond Energy - Everyday Single",
+    "membershipFee": "0",
+    "supplyCharge": "1.9202",
+    "usageRate": "0.2797",
+    "feedInRate": "0.031",
+    "afterLimitFit": "0",
+    "feedInLimit": "999"
+  },
+  {
+    "name": "Dodo - Residential Standing",
+    "membershipFee": "0",
+    "supplyCharge": "1.9202",
+    "usageRate": "0.2797",
+    "feedInRate": "0.01",
+    "afterLimitFit": "0",
+    "feedInLimit": "999"
+  },
+  {
+    "name": "Engie - ENGIE Perks Elec",
+    "membershipFee": "0",
+    "supplyCharge": "1.9201",
+    "usageRate": "0.2797",
+    "feedInRate": "0.01",
+    "afterLimitFit": "0",
+    "feedInLimit": "999"
+  },
+  {
+    "name": "Engie - ENGIE Solar Elec",
+    "membershipFee": "0",
+    "supplyCharge": "1.9201",
+    "usageRate": "0.2797",
+    "feedInRate": "0.08",
+    "afterLimitFit": "0.01",
+    "feedInLimit": "8"
+  },
+  {
+    "name": "EnergyAustralia - Flexi Plan",
+    "membershipFee": "0",
+    "supplyCharge": "1.9201",
+    "usageRate": "0.2797",
+    "feedInRate": "0.04",
+    "afterLimitFit": "0",
+    "feedInLimit": "999"
+  },
+  {
+    "name": "EnergyAustralia - Solar Max",
+    "membershipFee": "0",
+    "supplyCharge": "1.9201",
+    "usageRate": "0.2797",
+    "feedInRate": "0.08",
+    "afterLimitFit": "0.04",
+    "feedInLimit": "10"
+  },
+  {
+    "name": "Flipped Energy - Anytime Switched On",
+    "membershipFee": "0",
+    "supplyCharge": "1.186",
+    "usageRate": "0.2732",
+    "feedInRate": "0.02",
+    "afterLimitFit": "0",
+    "feedInLimit": "999"
+  },
+  {
+    "name": "GloBird - BOOST",
+    "membershipFee": "0",
+    "supplyCharge": "1.43",
+    "usageRate": "0.2684",
+    "feedInRate": "0.03",
+    "afterLimitFit": "0",
+    "feedInLimit": "999"
+  },
+  {
+    "name": "GloBird - SOLARPLUS",
+    "membershipFee": "0",
+    "supplyCharge": "1.507",
+    "usageRate": "0.3421",
+    "feedInRate": "0.1",
+    "afterLimitFit": "0.03",
+    "feedInLimit": "8"
+  },
+  {
+    "name": "Nectr - Power Perks",
+    "membershipFee": "0",
+    "supplyCharge": "1.7007",
+    "usageRate": "0.2525",
+    "feedInRate": "0",
+    "afterLimitFit": "0",
+    "feedInLimit": "999"
+  },
+  {
+    "name": "Origin - Origin Go Variable",
+    "membershipFee": "0",
+    "supplyCharge": "1.8434",
+    "usageRate": "0.2685",
+    "feedInRate": "0.03",
+    "afterLimitFit": "0",
+    "feedInLimit": "999"
+  },
+  {
+    "name": "Origin - Origin Solar Boost",
+    "membershipFee": "0",
+    "supplyCharge": "1.9201",
+    "usageRate": "0.2797",
+    "feedInRate": "0.08",
+    "afterLimitFit": "0.03",
+    "feedInLimit": "8"
+  },
+  {
+    "name": "Ovo - The One Plan",
+    "membershipFee": "0",
+    "supplyCharge": "1.5169",
+    "usageRate": "0.2713",
+    "feedInRate": "0.02",
+    "afterLimitFit": "0",
+    "feedInLimit": "999"
+  },
+  {
+    "name": "Powershop - Power House",
+    "membershipFee": "0",
+    "supplyCharge": "0.9302",
+    "usageRate": "0.4486",
+    "feedInRate": "0.01",
+    "afterLimitFit": "0",
+    "feedInLimit": "999"
+  },
+  {
+    "name": "Red Energy - Living Saver",
+    "membershipFee": "0",
+    "supplyCharge": "1.65",
+    "usageRate": "0.2766",
+    "feedInRate": "0.01",
+    "afterLimitFit": "0",
+    "feedInLimit": "999"
+  },
+  {
+    "name": "Red Energy - Living Solar Saver",
+    "membershipFee": "0",
+    "supplyCharge": "1.9201",
+    "usageRate": "0.2797",
+    "feedInRate": "0.05",
+    "afterLimitFit": "0",
+    "feedInLimit": "999"
+  },
+  {
+    "name": "Sumo - Local Single Rate",
+    "membershipFee": "0",
+    "supplyCharge": "1.1846",
+    "usageRate": "0.309",
+    "feedInRate": "0.088",
+    "afterLimitFit": "0",
+    "feedInLimit": "8"
+  },
+  {
+    "name": "Tango Energy - Home Select",
+    "membershipFee": "0",
+    "supplyCharge": "1.2925",
+    "usageRate": "0.3427",
+    "feedInRate": "0",
+    "afterLimitFit": "0",
+    "feedInLimit": "999"
+  }
+]

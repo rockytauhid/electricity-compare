@@ -1,0 +1,13 @@
+services:
+  wattcast:
+    container_name: wattcast
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    ports:
+      # Bind to localhost by default so your host reverse proxy (Nginx, Caddy,
+      # Cloudflare Tunnel, etc.) routes wattcast.rockytauhid.dev -> 127.0.0.1:8085.
+      # If your reverse proxy runs in Docker on a shared network, you can remove
+      # `ports` and attach this service to that external network instead.
+      - "127.0.0.1:8085:80"
