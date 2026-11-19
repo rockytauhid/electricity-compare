@@ -1,0 +1,170 @@
+{
+  "1st Energy - Quartz Single": {
+    "supply": "37.620",
+    "usage": "0.8441598000",
+    "solar": "0.966851000",
+    "bill": "37.4973088000",
+    "billCents": "37.50"
+  },
+  "AGL - Smart Saver": {
+    "supply": "36.4820",
+    "usage": "0.8188874000",
+    "solar": "3.61294000",
+    "bill": "33.6879474000",
+    "billCents": "33.69"
+  },
+  "AGL - Solar Savers": {
+    "supply": "38.4020",
+    "usage": "0.8620354000",
+    "solar": "11.08486000",
+    "bill": "28.1791754000",
+    "billCents": "28.18"
+  },
+  "Alinta - HomeDeal Smart": {
+    "supply": "33.7940",
+    "usage": "0.7587884000",
+    "solar": "3.61294000",
+    "bill": "30.9398484000",
+    "billCents": "30.94"
+  },
+  "Alinta - SolarBalance Advantage": {
+    "supply": "36.8680",
+    "usage": "0.8275170000",
+    "solar": "11.08486000",
+    "bill": "26.6106570000",
+    "billCents": "26.61"
+  },
+  "Covau - Freedom Single": {
+    "supply": "24.1380",
+    "usage": "1.2374230000",
+    "solar": "9.935585000",
+    "bill": "15.4398380000",
+    "billCents": "15.44"
+  },
+  "Diamond Energy - Everyday Single": {
+    "supply": "38.4040",
+    "usage": "0.8620354000",
+    "solar": "5.600057000",
+    "bill": "33.6659784000",
+    "billCents": "33.67"
+  },
+  "Dodo - Residential Standing": {
+    "supply": "38.4040",
+    "usage": "0.8620354000",
+    "solar": "1.80647000",
+    "bill": "37.4595654000",
+    "billCents": "37.46"
+  },
+  "Engie - ENGIE Perks Elec": {
+    "supply": "38.4020",
+    "usage": "0.8620354000",
+    "solar": "1.80647000",
+    "bill": "37.4575654000",
+    "billCents": "37.46"
+  },
+  "Engie - ENGIE Solar Elec": {
+    "supply": "38.4020",
+    "usage": "0.8620354000",
+    "solar": "10.52371000",
+    "bill": "28.7403254000",
+    "billCents": "28.74"
+  },
+  "EnergyAustralia - Flexi Plan": {
+    "supply": "38.4020",
+    "usage": "0.8620354000",
+    "solar": "7.22588000",
+    "bill": "32.0381554000",
+    "billCents": "32.04"
+  },
+  "EnergyAustralia - Solar Max": {
+    "supply": "38.4020",
+    "usage": "0.8620354000",
+    "solar": "13.08716000",
+    "bill": "26.1768754000",
+    "billCents": "26.18"
+  },
+  "Flipped Energy - Anytime Switched On": {
+    "supply": "23.720",
+    "usage": "0.8420024000",
+    "solar": "3.61294000",
+    "bill": "20.9490624000",
+    "billCents": "20.95"
+  },
+  "GloBird - BOOST": {
+    "supply": "28.60",
+    "usage": "0.8272088000",
+    "solar": "5.41941000",
+    "bill": "24.0077988000",
+    "billCents": "24.01"
+  },
+  "GloBird - SOLARPLUS": {
+    "supply": "30.140",
+    "usage": "1.0543522000",
+    "solar": "14.13665000",
+    "bill": "17.0577022000",
+    "billCents": "17.06"
+  },
+  "Nectr - Power Perks": {
+    "supply": "34.0140",
+    "usage": "0.7782050000",
+    "solar": "0.000000",
+    "bill": "34.7922050000",
+    "billCents": "34.79"
+  },
+  "Origin - Origin Go Variable": {
+    "supply": "36.8680",
+    "usage": "0.8275170000",
+    "solar": "5.41941000",
+    "bill": "32.2761070000",
+    "billCents": "32.28"
+  },
+  "Origin - Origin Solar Boost": {
+    "supply": "38.4020",
+    "usage": "0.8620354000",
+    "solar": "11.64601000",
+    "bill": "27.6180254000",
+    "billCents": "27.62"
+  },
+  "Ovo - The One Plan": {
+    "supply": "30.3380",
+    "usage": "0.8361466000",
+    "solar": "3.61294000",
+    "bill": "27.5612066000",
+    "billCents": "27.56"
+  },
+  "Powershop - Power House": {
+    "supply": "18.6040",
+    "usage": "1.3825852000",
+    "solar": "1.80647000",
+    "bill": "18.1801152000",
+    "billCents": "18.18"
+  },
+  "Red Energy - Living Saver": {
+    "supply": "33.00",
+    "usage": "0.8524812000",
+    "solar": "1.80647000",
+    "bill": "32.0460112000",
+    "billCents": "32.05"
+  },
+  "Red Energy - Living Solar Saver": {
+    "supply": "38.4020",
+    "usage": "0.8620354000",
+    "solar": "9.03235000",
+    "bill": "30.2316854000",
+    "billCents": "30.23"
+  },
+  "Sumo - Local Single Rate": {
+    "supply": "23.6920",
+    "usage": "0.952338000",
+    "solar": "10.958816000",
+    "bill": "13.685522000",
+    "billCents": "13.69"
+  },
+  "Tango Energy - Home Select": {
+    "supply": "25.8500",
+    "usage": "1.0562014000",
+    "solar": "0.000000",
+    "bill": "26.9062014000",
+    "billCents": "26.91"
+  }
+}
